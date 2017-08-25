@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view></router-view>
+    <p>woqu</p>
   </div>
 </template>
 
@@ -11,5 +12,5 @@ export default {
 </script>
 
 <style>
-  @import "../static/css/main.css"
+  @import "../static/css/main.css";
 </style>
